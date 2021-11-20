@@ -36,4 +36,10 @@ button {
   width: 180px;
   margin: 10px;
   border-radius: 5px;
+  transition: all 0.4s ease-in-out;
+}
+
+button:hover {
+  background-color: #ffc222;
+  color:black;
 }
