@@ -20,3 +20,20 @@ h3 {
   font-size: 2.6em;
   text-transform: uppercase;
 }
+
+#seconds,
+#tens {
+  font-size: 2em;
+}
+
+button {
+  background-color: black;
+  color: #ffc222;
+  border: solid 1px #ffc222;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 18px 10px;
+  width: 180px;
+  margin: 10px;
+  border-radius: 5px;
+}
